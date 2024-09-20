@@ -1,0 +1,8 @@
+Flask
+requests
+pandas
+beautifulsoup4
+lxml
+SQLAlchemy
+apscheduler
+pytest
